@@ -1,2 +1,2 @@
 # Website
-Just another one
+The Online Restaurant Management System permits the clients globally to reserve the rooms,party halls,dinner tables in the hotel at any time. It will provide a unique search and book functionally for the customers anywhere in the world. This project can be used by the clients and the travel agencies who will help them to reserve the hotel of their choice.The user interface must be simple and easy to understand even by the common man.
